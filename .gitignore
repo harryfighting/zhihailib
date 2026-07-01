@@ -1,0 +1,31 @@
+.DS_Store
+Thumbs.db
+*.log
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+docs/
+tests/
+
+# Local database access and secrets
+db.py
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local database exports
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+booklists.json
+booklists_slim.json
+
+# AI workspace and planning files
+AGENTS.md
+.agents/
+.codex/
+.publish/
