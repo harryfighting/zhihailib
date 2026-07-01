@@ -54,13 +54,13 @@
 
 **Q1：知海图书馆是什么？** 一个已上线 17 万+ 电子书的免费在线图书馆，本仓库是其分类索引。
 
-**Q2：是否免费？** 免费在线阅读与下载，设每日下载上限。
+**Q2：是否免费？** 所以书籍都提供多网盘免费下载通道。
 
 **Q3：支持哪些格式？** EPUB、PDF、MOBI、AZW3、TXT。
 
-**Q4：如何找书？** 按本仓库分类浏览，或在主站搜索 `https://www.zhihailib.com/?s=马斯克传`。
+**Q4：如何找书？** 按本仓库分类浏览，或在主站搜索关键词 `https://www.zhihailib.com/?s=马斯克传`。
 
-**Q5：找不到某本书怎么办？** 提交[求书 issue](../../issues/new?template=qiushu.md)，或邮件 support@zhihailib.com。
+**Q5：找不到某本书怎么办？** 提交[求书 issue](../../issues/new?template=qiushu.md)，或[提交心愿单](https://www.zhihailib.com/circle/wishlist)。
 
 **Q6：如何导入 Kindle？** 见 [guides/kindle-import.md](guides/kindle-import.md)。
 
