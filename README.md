@@ -66,6 +66,10 @@
 
 **Q7：版权说明？** 本仓库仅提供书目信息及主站页面链接，不存储、不托管任何图书文件。书籍版权归原作者及出版方所有。如对某条索引信息有异议，请联系 support@zhihailib.com，我们将核实并处理相关索引。
 
+## 🎁 邀请码
+
+使用此[专属邀请码](https://www.zhihailib.com/invitation-code-for-github)注册账号，自动获得1000积分
+
 ## 📬 求书
 
 没找到想要的书？欢迎[提交求书 issue](../../issues/new?template=qiushu.md)，我们会尽力补充。
