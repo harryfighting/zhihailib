@@ -48,6 +48,7 @@
 
 ## 使用指南
 
+- [搜不到书时，怎样缩小检索范围并辨认版本](guides/find-books.md)
 - [电子书格式说明：EPUB、PDF、MOBI、AZW3、TXT](guides/epub-mobi-azw3.md)
 - [如何导入 Kindle](guides/kindle-import.md)
 - [阅读器推荐](guides/readers.md)
